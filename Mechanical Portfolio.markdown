@@ -292,6 +292,14 @@ float GetDistance (int trigger, int echo){
 
 ---
 
+## RC Car
+
+| Video Link | RC Car |
+| ---- | ----- |
+| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ai-nQ_gWu8w/0.jpg)](https://www.youtube.com/watch?v=rvY-m6PBqEQ) | <img src="Images/Claw.png" width="300"><br> |
+
+---
+
 ## Acrhimedes Wind Turbine (Fall 2025)
 
 ---
