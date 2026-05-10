@@ -277,6 +277,10 @@ float GetDistance (int trigger, int echo){
 
 ## Digital Scale (Fall 2023)
 
+| Real model | Rendered Model |
+| --- | --- | 
+| <img src="Images/Claw.png" width="300"><br> | <img src="Images/Claw.png" width="300"><br> |
+
 **Summary:** I had to design and build a working digital scale that has the ability to tare, and change units and also stay within a certain build volume. The load cell used in this project was provided through the university, however, I had to machine two other componenets on the lathe and mill to a specified tolerance which the load cell sat on. The scale had to encapsulate 6 volts worth of batteries, the load cell, a programmed circuit board, LED display, buttons and a tray. 
 
 **Challenges:** Some challenges faced in this project were 3D printing the final model and coding a debounce loop into ardunio in order to have responsive bottons. I went through 3 interations before I was satisfied with the final model.
