@@ -279,7 +279,7 @@ float GetDistance (int trigger, int echo){
 
 | Real model | Rendered Model |
 | --- | --- | 
-| <img src="Images/Claw.png" width="300"><br> | <img src="Images/Claw.png" width="300"><br> |
+| <img src="Images/DigtalScale.jpg" width="600"><br> | <img src="Images/DigitalScaleRender.png" width="600"><br> |
 
 **Summary:** I had to design and build a working digital scale that has the ability to tare, and change units and also stay within a certain build volume. The load cell used in this project was provided through the university, however, I had to machine two other componenets on the lathe and mill to a specified tolerance which the load cell sat on. The scale had to encapsulate 6 volts worth of batteries, the load cell, a programmed circuit board, LED display, buttons and a tray. 
 
@@ -290,13 +290,17 @@ float GetDistance (int trigger, int echo){
 
 ## Soda Can Stirling Engine (Spring 2024)
 
+| Video Link | RC Car |
+| ---- | ----- |
+| [![YouTube Shorts Preview](https://youtube.com)](https://www.youtube.com/shorts/3Y_sKm8OTxA) | <img src="Images/RCcar.png" width="300"><br> |
+
 ---
 
 ## RC Car
 
 | Video Link | RC Car |
 | ---- | ----- |
-| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ai-nQ_gWu8w/0.jpg)](https://www.youtube.com/watch?v=rvY-m6PBqEQ) | <img src="Images/Claw.png" width="300"><br> |
+| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rvY-m6PBqEQ/0.jpg)](https://www.youtube.com/watch?v=rvY-m6PBqEQ) | <img src="Images/RCcar.png" width="300"><br> |
 
 ---
 
