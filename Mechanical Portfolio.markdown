@@ -6,9 +6,10 @@ These are meaningful projects that I made while attending Rowan University.
 
 ## Mechanical Arm (Fall 2023)
 
+| Video Link | Claw Design |
+| ---- | ----- |
+| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ai-nQ_gWu8w/0.jpg)](https://www.youtube.com/watch?v=ai-nQ_gWu8w) | <img src="Images/Claw.png" width="300"><br> |
 
-YouTube Link
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ai-nQ_gWu8w/0.jpg)](https://www.youtube.com/watch?v=ai-nQ_gWu8w)
 
 **Summary:** This objective of this project was to successfully pick up a payload (cube), and place it into a specifiec drop zone. I worked with three other students to analyze, design and build a working model to complete our task. In this project, my role was to design and build a working claw model in solidworks using a graphical linkage system. From there, I laser cut all of the components and assembled them using nuts and bolts available in the the ME shop. I also helped program the robotic arm using arduino IDE.
 
