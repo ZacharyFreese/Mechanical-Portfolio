@@ -290,10 +290,10 @@ float GetDistance (int trigger, int echo){
 
 ## Soda Can Stirling Engine (Spring 2024)
 
-| Video Link | RC Car |
+| Video Links | Pictures |
 | ---- | ----- |
 | [![YouTube Shorts Preview](https://youtube.com)](https://www.youtube.com/shorts/3Y_sKm8OTxA) | <img src="Images/InsideCan.jpg" width="300"><br> |
-| [![YouTube Shorts Preview](https://img.youtube.com/vi//0.jpg)](https://youtube.com/shorts/afP9vJ6MEqE?feature=share) | |
+| [![YouTube Shorts Preview]<img src="Images/StirlingEngineTest.PNG" width="300"><br>](https://youtube.com/shorts/afP9vJ6MEqE) | |
 
 ---
 
