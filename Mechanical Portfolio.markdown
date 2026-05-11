@@ -292,8 +292,7 @@ float GetDistance (int trigger, int echo){
 
 | Video Links | Pictures |
 | ---- | ----- |
-| [![YouTube Shorts Preview](https://youtube.com)](https://www.youtube.com/shorts/3Y_sKm8OTxA) | <img src="Images/InsideCan.jpg" width="300"><br> |
-| [![YouTube Shorts Preview]<img src="Images/StirlingEngineTest.PNG" width="300"><br>](https://youtube.com/shorts/afP9vJ6MEqE) | |
+| [![YouTube Shorts Preview](<img src="Images/StirlingEngineTest.PNG" width="300"><br>)](https://www.youtube.com/shorts/3Y_sKm8OTxA) | <img src="Images/InsideCan.jpg" width="300"><br> |
 
 ---
 
@@ -310,3 +309,5 @@ float GetDistance (int trigger, int echo){
 ---
 
 ## Fluid Dynamic Demonstrations for Classrooms (Spring 2026)
+
+
