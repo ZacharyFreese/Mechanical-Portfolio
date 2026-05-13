@@ -288,26 +288,11 @@ float GetDistance (int trigger, int echo){
 
 ---
 
-## Soda Can Stirling Engine (Spring 2024)
-
-| Video Links | Pictures |
-| ---- | ----- |
-| [![YouTube Shorts Preview](<img src="Images/StirlingEngineTest.PNG" width="300"><br>)](https://www.youtube.com/shorts/3Y_sKm8OTxA) | <img src="Images/InsideCan.jpg" width="300"><br> |
-
----
-
-## RC Car
+## RC Car (Sping 2025)
 
 | Video Link | RC Car |
 | ---- | ----- |
 | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rvY-m6PBqEQ/0.jpg)](https://www.youtube.com/watch?v=rvY-m6PBqEQ) | <img src="Images/RCcar.png" width="300"><br> |
 
----
-
-## Acrhimedes Wind Turbine (Fall 2025)
-
----
-
-## Fluid Dynamic Demonstrations for Classrooms (Spring 2026)
-
+**Summary:** We had to assemble into groups of 4 and design and build an RC car that is able to pick up a payload (pingpong ball) and drop it into the designated hoop.
 
