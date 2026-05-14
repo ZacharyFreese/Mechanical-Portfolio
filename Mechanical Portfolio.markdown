@@ -294,5 +294,7 @@ float GetDistance (int trigger, int echo){
 | ---- | ----- |
 | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rvY-m6PBqEQ/0.jpg)](https://www.youtube.com/watch?v=rvY-m6PBqEQ) | <img src="Images/RCcar.png" width="300"><br> |
 
-**Summary:** We had to assemble into groups of 4 and design and build an RC car that is able to pick up a payload (pingpong ball) and drop it into the designated hoop.
+**Summary:** We had to assemble into groups of 4 to design and build an RC car that is able to pick up a payload (pingpong ball), and drop it into the designated hoop. We completed this by splitting the work up between each person. My responsibility for this project was to design a frame in solidworks to hold all of the components together within a specified build box. I also helped design the claw and made sure all of the components fit together nicely. We ultimately won first place in the competition at the end of the semester by dunking the most ping pong balls through the hoop in 2 minutes.
+
+**Challenges:** So of the challenges we encountered were the coding portion and making a lifting mechanism that was reliable and simple. Since Arduino cannot run handle two imputs simultaniously, we had trouble controling the car. We solved this by having wheels turn on at the same time in an "if" loop when the controller handle was pushed foward. They would then stay on until the arduino code ran through an entire loop. The lifting mechanism was fixed by adjusting the size of the cup and tieing a rubber band to the cupping arm to keep it in tension for bilateral directional control with one servo.
 
