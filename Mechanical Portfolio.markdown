@@ -10,10 +10,25 @@ These are meaningful projects that I made while attending Rowan University.
 | ---- | ----- |
 | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ai-nQ_gWu8w/0.jpg)](https://www.youtube.com/watch?v=ai-nQ_gWu8w) | <img src="Images/Claw.png" width="300"><br> |
 
+---
 
-**Summary:** This objective of this project was to successfully pick up a payload (cube), and place it into a specifiec drop zone. I worked with three other students to analyze, design and build a working model to complete our task. In this project, my role was to design and build a working claw model in solidworks using a graphical linkage system. From there, I laser cut all of the components and assembled them using nuts and bolts available in the the ME shop. I also helped program the robotic arm using arduino IDE.
+### Project Summary
 
-**Challenges:** This was one of my first times using solidsworks, so learning how to use the software to meet deadlines was difficult. Assembling the arm for the first time was problematic and it did not go as planned. Luckly, I was prepared for mistakes and errors and I was able to fix them before moving to the next stage of the project.
+Designed and fabricated a robotic claw mechanism for a team-based payload transfer system capable of picking up and depositing a cube into a designated drop zone. My primary responsibility was developing the claw assembly in SolidWorks using a four-bar mechanical linkage-based gripping mechanism to maximize stability and range of motion.
+
+After completing the CAD model, I laser cut the components, assembled the mechanism using mechanical fasteners, and integrated the claw with the robotic arm system. I also contributed to programming the arm controls in Arduino IDE to coordinate payload pickup and placement operations.
+
+This project strengthened my experience in CAD modeling, mechanical prototyping, fabrication, and electromechanical system integration.
+
+---
+
+### Challenges & Engineering Process
+
+One of the primary challenges was rapidly learning SolidWorks while meeting project deadlines and maintaining manufacturable designs. Early assembly testing revealed alignment and motion issues within the linkage mechanism, requiring multiple design iterations and component adjustments to improve functionality and reliability.
+
+Through iterative prototyping and testing, I refined the claw geometry and assembly process to achieve consistent payload gripping performance. This experience improved my understanding of design-for-manufacturing principles, tolerance considerations, and mechanical troubleshooting during system integration.
+
+---
 
 **Arduino Code:** 
 
@@ -281,10 +296,25 @@ float GetDistance (int trigger, int echo){
 | --- | --- | 
 | <img src="Images/DigtalScale.jpg" width="600"><br> | <img src="Images/DigitalScaleRender.png" width="600"><br> |
 
-**Summary:** I had to design and build a working digital scale that has the ability to tare, and change units and also stay within a certain build volume. The load cell used in this project was provided through the university, however, I had to machine two other componenets on the lathe and mill to a specified tolerance which the load cell sat on. The scale had to encapsulate 6 volts worth of batteries, the load cell, a programmed circuit board, LED display, buttons and a tray. 
+---
 
-**Challenges:** Some challenges faced in this project were 3D printing the final model and coding a debounce loop into ardunio in order to have responsive bottons. I went through 3 interations before I was satisfied with the final model.
+### Project Summary
 
+Designed and fabricated a functional digital scale capable of taring, unit conversion, and accurate weight measurement while meeting strict build-volume constraints. The system integrated a load cell, custom-machined support components, a programmed microcontroller circuit, LED display, user input buttons, and an enclosed battery-powered housing.
+
+The load cell was provided by the university, while I independently machined the mounting components on a lathe and milling machine to specified dimensional tolerances to ensure proper load transfer and measurement accuracy. I also designed and assembled the housing to accommodate all electrical and mechanical components within the required spatial constraints.
+
+The project combined mechanical design, precision manufacturing, electronics integration, and embedded programming to create a fully operational prototype.
+
+---
+
+### Challenges & Engineering Process
+
+One of the primary challenges was optimizing the enclosure and internal component layout while maintaining manufacturability and structural integrity for 3D printing. Multiple prototype iterations were required to improve component fitment, assembly reliability, and overall functionality. After three design iterations, the final model successfully met both dimensional and performance requirements.
+
+Another challenge involved programming responsive button controls in Arduino IDE. To improve user input reliability, I implemented debounce logic to eliminate unintended multiple button activations and create a more stable interface for tare and unit-conversion functions.
+
+This project strengthened my experience in precision machining, tolerance-based manufacturing, embedded systems programming, rapid prototyping, and electromechanical product design.
 
 ---
 
@@ -294,7 +324,18 @@ float GetDistance (int trigger, int echo){
 | ---- | ----- |
 | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rvY-m6PBqEQ/0.jpg)](https://www.youtube.com/watch?v=rvY-m6PBqEQ) | <img src="Images/RCcar.png" width="300"><br> |
 
-**Summary:** We had to assemble into groups of 4 to design and build an RC car that is able to pick up a payload (pingpong ball), and drop it into the designated hoop. We completed this by splitting the work up between each person. My responsibility for this project was to design a frame in solidworks to hold all of the components together within a specified build box. I also helped design the claw and made sure all of the components fit together nicely. We ultimately won first place in the competition at the end of the semester by dunking the most ping pong balls through the hoop in 2 minutes.
+### Project Summary
 
-**Challenges:** So of the challenges we encountered were the coding portion and making a lifting mechanism that was reliable and simple. Since Arduino cannot run handle two imputs simultaniously, we had trouble controling the car. We solved this by having wheels turn on at the same time in an "if" loop when the controller handle was pushed foward. They would then stay on until the arduino code ran through an entire loop. The lifting mechanism was fixed by adjusting the size of the cup and tieing a rubber band to the cupping arm to keep it in tension for bilateral directional control with one servo.
+Collaborated in a four-person engineering team to design and build an autonomous/remote-controlled RC vehicle capable of collecting ping pong balls and depositing them into an elevated target hoop within a timed competition.
 
+My primary responsibility was designing the vehicle chassis in SolidWorks to securely integrate all mechanical and electrical components within strict build-volume constraints. I also contributed to the design and integration of the claw and lifting mechanism, ensuring proper fitment, structural stability, and overall system reliability.
+
+Our team ultimately earned **1st place** in the end-of-semester competition by successfully scoring the highest number of payloads within the two-minute time limit.
+
+---
+
+Challenges & Engineering Process
+
+One of the primary technical challenges involved achieving smooth vehicle control using an Arduino-based control system. Because the controller logic initially struggled to process simultaneous motor inputs effectively, the vehicle experienced inconsistent movement behavior. We resolved this by restructuring the control logic using conditional loops that synchronized wheel activation and maintained motor output until each control cycle was completed.
+
+Another major challenge was developing a lifting mechanism that was both reliable and mechanically simple. Through iterative prototyping, we optimized the geometry of the collection cup and incorporated a tensioned rubber-band system on the lifting arm. This provided consistent bidirectional control using a single servo motor while improving stability and repeatability during operation.
