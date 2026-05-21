@@ -334,7 +334,7 @@ Our team ultimately earned **1st place** in the end-of-semester competition by s
 
 ---
 
-Challenges & Engineering Process
+### Challenges & Engineering Process
 
 One of the primary technical challenges involved achieving smooth vehicle control using an Arduino-based control system. Because the controller logic initially struggled to process simultaneous motor inputs effectively, the vehicle experienced inconsistent movement behavior. We resolved this by restructuring the control logic using conditional loops that synchronized wheel activation and maintained motor output until each control cycle was completed.
 
